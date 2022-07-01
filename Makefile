@@ -3,4 +3,5 @@ test:
 	pytest
 
 .PHONY: local-dev
-	streamlit run run.py --reload
+local-dev:
+	streamlit run run.py
