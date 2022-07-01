@@ -27,6 +27,11 @@ class CoffeeDB:
         cursor = connection.cursor()
         return cursor
 
+    @st.experimental_singleton
+    def get_connection(_self):
+        connection = sqlite3.connect(_self.path, check_same_thread=False)
+        return connection
+
 if __name__ == "__main__":
     query = CoffeeDB().get_cursor().execute("""
             SELECT *

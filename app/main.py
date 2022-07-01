@@ -11,8 +11,9 @@ class Dashboard():
         st.title("Coffee Quality Dashboard!")
 
     def body(self) -> None:
-        cursor = self.db.get_cursor()
-        test_query = pd.read_sql_query("SELECT * FROM merged_data_cleaned", cursor, index_col='')
+        connection = self.db.get_connection()
+        test_query = pd.read_sql_query("SELECT * FROM merged_data_cleaned",
+                                       connection, index_col='')
         st.dataframe(test_query)
 
     def render(self) -> None:
