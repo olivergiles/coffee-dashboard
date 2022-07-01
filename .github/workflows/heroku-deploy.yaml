@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - main
-      
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -15,6 +15,3 @@ jobs:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
           heroku_app_name: "coffee-quality"
           heroku_email: "ogiles@email.com"
-          #healthcheck: "https://[YOUR APP's NAME].herokuapp.com/health"
-          #checkstring: "ok"
-          #rollbackonhealthcheckfailed: true
