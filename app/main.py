@@ -5,7 +5,7 @@ class Dashboard():
         pass
 
     def title(self) -> None:
-        st.title("Coffee Quality Dashboard")
+        st.title("Coffee Quality Dashboard!")
 
     def render(self) -> None:
         self.title()
