@@ -34,6 +34,8 @@ sys.path.insert(0, os.path.abspath('../source'))
 extensions = ['sphinx.ext.autodoc',
               'sphinx.ext.autosummary',]
 
+autosummary_generate = True
+
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 
