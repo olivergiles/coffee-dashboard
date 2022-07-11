@@ -3,10 +3,4 @@
 Purpose
 =======
 
-Write me ...
-
-
-Zipf's law
-----------
-
-Write me ...
+App to demo streamlit with docs and full ci and cd.
