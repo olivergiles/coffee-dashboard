@@ -1,0 +1,34 @@
+﻿app
+===
+
+.. automodule:: app
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+
+.. autosummary::
+   :toctree:
+   :template: custom-module-template.rst
+   :recursive:
+
+   app.cache
+   app.constants
+   app.database
+   app.main
+   app.tests
+

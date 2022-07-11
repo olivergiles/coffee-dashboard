@@ -1,0 +1,32 @@
+app.constants
+=============
+
+.. automodule:: app.constants
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+      :toctree:
+      :template: custom-class-template.rst
+      :nosignatures:
+   
+      Constants
+   
+   
+
+   
+   
+   
+
+
+

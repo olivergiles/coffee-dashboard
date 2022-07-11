@@ -1,0 +1,30 @@
+app.tests
+=========
+
+.. automodule:: app.tests
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+
+.. autosummary::
+   :toctree:
+   :template: custom-module-template.rst
+   :recursive:
+
+   app.tests.test_main
+

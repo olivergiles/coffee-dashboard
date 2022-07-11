@@ -1,0 +1,32 @@
+app.cache
+=========
+
+.. automodule:: app.cache
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+      :toctree:
+      :template: custom-class-template.rst
+      :nosignatures:
+   
+      Cache
+   
+   
+
+   
+   
+   
+
+
+

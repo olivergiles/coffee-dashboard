@@ -1,0 +1,26 @@
+app.cache.Cache
+===============
+
+.. currentmodule:: app.cache
+
+.. autoclass:: Cache
+   :members:
+   :show-inheritance:
+   :inherited-members:
+   :special-members: __call__, __add__, __mul__
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :nosignatures:
+   
+      ~Cache.cache_key_value
+      ~Cache.get_value_for_key
+   
+   
+
+   
+   
+   

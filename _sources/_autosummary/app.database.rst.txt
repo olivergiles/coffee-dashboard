@@ -1,0 +1,32 @@
+app.database
+============
+
+.. automodule:: app.database
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+      :toctree:
+      :template: custom-class-template.rst
+      :nosignatures:
+   
+      CoffeeDB
+   
+   
+
+   
+   
+   
+
+
+

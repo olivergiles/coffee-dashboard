@@ -1,0 +1,26 @@
+app.database.CoffeeDB
+=====================
+
+.. currentmodule:: app.database
+
+.. autoclass:: CoffeeDB
+   :members:
+   :show-inheritance:
+   :inherited-members:
+   :special-members: __call__, __add__, __mul__
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :nosignatures:
+   
+      ~CoffeeDB.get_connection
+      ~CoffeeDB.get_cursor
+   
+   
+
+   
+   
+   

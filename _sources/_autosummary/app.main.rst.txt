@@ -1,0 +1,32 @@
+app.main
+========
+
+.. automodule:: app.main
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+      :toctree:
+      :template: custom-class-template.rst
+      :nosignatures:
+   
+      Dashboard
+   
+   
+
+   
+   
+   
+
+
+
