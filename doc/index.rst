@@ -13,3 +13,4 @@ word-count
    purpose.rst
    dependencies.rst
    credit.rst
+   api.rst
